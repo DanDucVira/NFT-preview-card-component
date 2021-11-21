@@ -114,6 +114,10 @@ h2 {
 
 }
 
+span {
+    color: hsl(0, 0%, 100%);
+}
+
 .attribution {
     position: absolute;
     bottom: 0;
