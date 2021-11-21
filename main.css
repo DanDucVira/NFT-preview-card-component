@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background: hsl(217, 54%, 11%);
+    font-size: 18px;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+
+}
